@@ -11,10 +11,6 @@ started coding 4 years ago with C++, Then I joined a Full-stack Bootcamp and now
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating with ahmed-fareeq-0
 
-<a href="https://www.github.com/Xlizer1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Xlizer1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/xlizer1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/xlizer1?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 

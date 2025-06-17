@@ -11,16 +11,16 @@
 
 ---
 
-## 🔥 Current Projects & Roles
+## Current Projects & Roles
 
-### 🍽️ **Kite** - Co-Founder & Lead Backend Developer *(Nov 2024 - Present)*
+### **Kite** - Co-Founder & Lead Backend Developer *(Nov 2024 - Present)*
 Building a next-generation restaurant management system with:
 - **Scalable Architecture**: Multi-restaurant support with optimized performance
 - **Smart Features**: QR-based table identification, role-based access control
 - **Modern Tech Stack**: Node.js backend, MySQL with Redis caching
 - **Team Leadership**: Managing frontend developers using Scrum methodology
 
-### 💼 **Freelance Full Stack Engineer** *(Mar 2022 - Present)*
+### **Freelance Full Stack Engineer** *(Mar 2022 - Present)*
 Specializing in complex system development including:
 - **Hospital Management Systems** with ML integration and IoT connectivity
 - **Landing Pages** for various companies
@@ -28,9 +28,9 @@ Specializing in complex system development including:
 
 ---
 
-## 💡 Key Professional Achievements
+## Key Professional Achievements
 
-### 🏥 **Advanced Hospital Management System**
+### **Advanced Hospital Management System**
 Led development of a comprehensive healthcare platform featuring:
 - **Role-based Architecture** for secure user access management
 - **IoT Integration** with Arduino devices for real-time patient monitoring
@@ -40,7 +40,7 @@ Led development of a comprehensive healthcare platform featuring:
 - **Redis Caching** for optimized performance
 - **SMS Notifications** for appointment management and health alerts
 
-### 🏢 **Enterprise Solutions at Integrated Solutions** *(Apr 2023 - Apr 2025)*
+### **Enterprise Solutions at Integrated Solutions** *(Apr 2023 - Apr 2025)*
 - **Drag-and-Drop Mission Management**: Reduced task creation time from 1-2 minutes to 30 seconds
 - **Mobile Ticketing System**: React Native app with intuitive UI/UX design
 - **File Management System**: Google Drive-like platform with full-text search capabilities
@@ -48,7 +48,7 @@ Led development of a comprehensive healthcare platform featuring:
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -106,8 +106,6 @@ Led development of a comprehensive healthcare platform featuring:
 **Phone**: +9647733002075
 
 ---
-
-## 📊 GitHub Analytics
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xlizer1&theme=onedark" alt="xlizer1" /></a> </p>
 
